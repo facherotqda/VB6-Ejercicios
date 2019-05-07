@@ -1,0 +1,29 @@
+Línea 14: la clase Crystal.CrystalReport del control CrystalReport1 no era una clase de control cargada.
+Línea 22: la clase CRVIEWERLibCtl.CRViewer del control CRViewer no era una clase de control cargada.
+Línea 17: el nombre de la propiedad _ExtentX de CrystalReport1 no es válido.
+Línea 18: el nombre de la propiedad _ExtentY de CrystalReport1 no es válido.
+Línea 19: el nombre de la propiedad _Version de CrystalReport1 no es válido.
+Línea 20: el nombre de la propiedad PrintFileLinesPerPage de CrystalReport1 no es válido.
+Línea 28: el nombre de la propiedad DisplayGroupTree de CRViewer no es válido.
+Línea 29: el nombre de la propiedad DisplayToolbar de CRViewer no es válido.
+Línea 30: el nombre de la propiedad EnableGroupTree de CRViewer no es válido.
+Línea 31: el nombre de la propiedad EnableNavigationControls de CRViewer no es válido.
+Línea 32: el nombre de la propiedad EnableStopButton de CRViewer no es válido.
+Línea 33: el nombre de la propiedad EnablePrintButton de CRViewer no es válido.
+Línea 34: el nombre de la propiedad EnableZoomControl de CRViewer no es válido.
+Línea 35: el nombre de la propiedad EnableCloseButton de CRViewer no es válido.
+Línea 36: el nombre de la propiedad EnableProgressControl de CRViewer no es válido.
+Línea 37: el nombre de la propiedad EnableSearchControl de CRViewer no es válido.
+Línea 38: el nombre de la propiedad EnableRefreshButton de CRViewer no es válido.
+Línea 39: el nombre de la propiedad EnableDrillDown de CRViewer no es válido.
+Línea 40: el nombre de la propiedad EnableAnimationControl de CRViewer no es válido.
+Línea 41: el nombre de la propiedad EnableSelectExpertButton de CRViewer no es válido.
+Línea 42: el nombre de la propiedad EnableToolbar de CRViewer no es válido.
+Línea 43: el nombre de la propiedad DisplayBorder de CRViewer no es válido.
+Línea 44: el nombre de la propiedad DisplayTabs de CRViewer no es válido.
+Línea 45: el nombre de la propiedad DisplayBackgroundEdge de CRViewer no es válido.
+Línea 46: el nombre de la propiedad SelectionFormula de CRViewer no es válido.
+Línea 47: el nombre de la propiedad EnablePopupMenu de CRViewer no es válido.
+Línea 48: el nombre de la propiedad EnableExportButton de CRViewer no es válido.
+Línea 49: el nombre de la propiedad EnableSearchExpertButton de CRViewer no es válido.
+Línea 50: el nombre de la propiedad EnableHelpButton de CRViewer no es válido.

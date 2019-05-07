@@ -1,0 +1,6 @@
+Form1 = 100, 100, 988, 616, , 75, 75, 963, 591, C
+MenuPrincipal = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmLoginBD = 0, 0, 0, 0, C, 25, 25, 913, 541, C
+LoginForm = 0, 0, 0, 0, C, 50, 50, 938, 566, C
+ModuloSentencias = 0, 0, 0, 0, C
+ModuloDeclaraciones = 0, 0, 0, 0, C

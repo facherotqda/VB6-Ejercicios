@@ -1,0 +1,6 @@
+MdiLogin = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+Planilla_ABM = 75, 75, 1042, 509, C, 50, 50, 1017, 484, C
+Modulo_conex = 25, 25, 992, 459, 
+NuevoCLiente = 0, 0, 0, 0, C, 100, 100, 1067, 534, C
+EditarCliente = 0, 0, 0, 0, C, 50, 50, 953, 567, C
+ELIMINARCliente = 0, 0, 0, 0, C, 0, 0, 0, 0, C

@@ -1,0 +1,7 @@
+frmLogin = 0, 0, 0, 0, C, 175, 175, 1023, 649, C
+frmMdiCENTRAL = 100, 100, 948, 574, , 75, 75, 923, 549, C
+ModuloDeclaraciones = 0, 0, 0, 0, C
+ModuloSentencias = 0, 0, 0, 0, C
+frmClientes = 150, 150, 998, 624, , 125, 125, 973, 599, C
+frmNuevoCliente = 50, 50, 898, 524, , 25, 25, 873, 499, C
+frmEditar = 0, 0, 0, 0, C, 200, 200, 1048, 674, C
